@@ -4,6 +4,9 @@
 
 It is an arcade brick samshing game built in Python3 without any major external libraries using only ascii characters. The player will be using paddle with a bouncing ball to smash bricks and increase scores.You loose a life when the ball touches the ground below the paddle.
 
+## Screenshots
+![brick smasher](https://user-images.githubusercontent.com/56218470/175813080-95d88be9-0738-433e-83a8-7fdd5450e8cf.png)
+
 ## OOPS CONCEPTS 
 
 #### Inheritence 
